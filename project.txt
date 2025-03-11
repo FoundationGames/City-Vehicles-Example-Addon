@@ -9,7 +9,7 @@ build.data.file=City_Vehicles_Data_${version}
 build.mod.resources=assets,data
 build.mod.manifest=fabric.mod.json,neoforge.mods.toml:META-INF/neoforge.mods.toml
 build.mod.meta=assets.mcmeta
-build.mod.file=city_vehicles-${version}_fabric+neoforge
+build.mod.file=city_vehicles-${version}
 
 build.icon=icon.png
 build.license=LICENSE
@@ -18,8 +18,8 @@ assets_pack_format=34
 data_pack_format=48
 
 name=City Vehicles Pack
-namespace=city-vehicles-pack
+namespace=cityvehicles
 author=FoundationGames
-version=1.0+1.21.1
+version=1.1+1.21.1
 description=Addon for Automobility, adding city vehicles
 license=MIT
