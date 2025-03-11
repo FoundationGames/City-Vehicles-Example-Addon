@@ -1,3 +1,8 @@
 {
-    "frame.cityvehicles.bus": "Bus"
+    "frame.cityvehicles.red_bus": "Red Bus",
+    "frame.cityvehicles.yellow_bus": "Yellow Bus",
+    "frame.cityvehicles.green_bus": "Green Bus",
+    "frame.cityvehicles.blue_bus": "Blue Bus",
+    "frame.cityvehicles.pink_bus": "Pink Bus",
+    "wheel.cityvehicles.bus": "Bus"
 }

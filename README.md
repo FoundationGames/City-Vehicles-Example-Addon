@@ -1,6 +1,6 @@
 # City Vehicles Example Addon for Automobility
 
-A datapack and resource pack that can be installed alongside Automobility to add a few custom vehicle types (currently, a red bus). <br/>
+A datapack and resource pack that can be installed alongside [Automobility](https://github.com/FoundationGames/Automobility/tree/1.21-rewrite) to add a few custom vehicle types (currently, five different-colored buses). <br/>
 Intended to serve as an example and template for addon creators.
 
 ## Buildscript: `build.py`

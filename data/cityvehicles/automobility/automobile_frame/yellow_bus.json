@@ -77,7 +77,7 @@
         ],
         "rear_attachment_offset": 72,
         "front_attachment_offset": 72.5,
-        "texture": "cityvehicles:models/entity/bus/bus.png",
+        "texture": "cityvehicles:models/entity/bus/yellow_bus.png",
         "model": "cityvehicles:frame/bus",
         "wheels": [
             {
@@ -100,7 +100,7 @@
                 "yaw": 0.0,
                 "end": "back",
                 "side": "left",
-                "forward": -40,
+                "forward": -41,
                 "right": -15,
                 "scale": 1.0
             },
@@ -108,7 +108,7 @@
                 "yaw": 180.0,
                 "end": "back",
                 "side": "right",
-                "forward": -40,
+                "forward": -41,
                 "right": 15,
                 "scale": 1.0
             },
