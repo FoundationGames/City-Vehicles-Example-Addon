@@ -1,0 +1,17 @@
+{
+    "schemaVersion": 1,
+    "id": "${namespace}",
+    "version": "${version}",
+    "name": "${name}",
+    "description": "${description}",
+    "authors": [
+        "${author}"
+    ],
+    "license": "${license}",
+    "icon": "${namespace}.png",
+    "environment": "*",
+    "depends": {
+        "fabric": "*",
+        "minecraft": "1.21.x"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "size": 1.1,
+    "grip": 0.8,
+    "display": {
+        "radius": 7.5,
+        "width": 3.5,
+        "texture": "cityvehicles:models/entity/bus_wheel/bus_wheel.png",
+        "model": "cityvehicles:wheel/bus"
+    }
+}

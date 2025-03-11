@@ -1,0 +1,7 @@
+{
+    "rotation": [0, 0, 180],
+    "translation": [0, 0, 0],
+    "type": "automobility:obj",
+    "material": "cutout_backfaces",
+    "model_layer": "cityvehicles:bus/bus"
+}

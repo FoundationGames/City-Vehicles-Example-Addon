@@ -1,0 +1,134 @@
+{
+    "weight": 0.95,
+    "width": 2.6,
+    "hitboxes": [
+        {
+            "origin": [
+                0.0,
+                1.8,
+                3.075
+            ],
+            "width": 2.625,
+            "height": 2.875
+        },
+        {
+            "origin": [
+                0.0,
+                1.8,
+                1.7
+            ],
+            "width": 2.625,
+            "height": 2.875
+        },
+        {
+            "origin": [
+                0.0,
+                1.8,
+                0.25
+            ],
+            "width": 2.625,
+            "height": 2.875
+        },
+        {
+            "origin": [
+                0.0,
+                1.8,
+                -1.5
+            ],
+            "width": 2.625,
+            "height": 2.875
+        },
+        {
+            "origin": [
+                0.0,
+                1.8,
+                -3.25
+            ],
+            "width": 2.625,
+            "height": 2.875
+        }
+    ],
+    "display": {
+        "driver_seat": [
+            12,
+            12,
+            58
+        ],
+        "passenger_seats": [
+            [-11, 6, 23],
+            [11, 6, 23],
+            [11, 6, 37],
+            [-11, 6, 9],
+            [11, 6, 9],
+            [-11, 6, -5],
+            [11, 6, -5],
+
+            [-14, 16, -20],
+            [14, 16, -20],
+            [-14, 16, -36.25],
+            [14, 16, -36.25],
+            [-14, 16, -52.5],
+            [14, 16, -52.5]
+        ],
+        "engine_position": [
+            0.0,
+            3,
+            -54.0
+        ],
+        "rear_attachment_offset": 72,
+        "front_attachment_offset": 72.5,
+        "texture": "cityvehicles:models/entity/bus/bus.png",
+        "model": "cityvehicles:frame/bus",
+        "wheels": [
+            {
+                "yaw": 0.0,
+                "end": "front",
+                "side": "left",
+                "forward": 60,
+                "right": -15,
+                "scale": 1.0
+            },
+            {
+                "yaw": 180.0,
+                "end": "front",
+                "side": "right",
+                "forward": 60,
+                "right": 15,
+                "scale": 1.0
+            },
+            {
+                "yaw": 0.0,
+                "end": "back",
+                "side": "left",
+                "forward": -40,
+                "right": -15,
+                "scale": 1.0
+            },
+            {
+                "yaw": 180.0,
+                "end": "back",
+                "side": "right",
+                "forward": -40,
+                "right": 15,
+                "scale": 1.0
+            },
+            {
+                "yaw": 0.0,
+                "end": "none",
+                "side": "left",
+                "forward": -23,
+                "right": -15,
+                "scale": 1.0
+            },
+            {
+                "yaw": 180.0,
+                "end": "none",
+                "side": "right",
+                "forward": -23,
+                "right": 15,
+                "scale": 1.0
+            }
+        ],
+        "length_pixels": 87
+    }
+}

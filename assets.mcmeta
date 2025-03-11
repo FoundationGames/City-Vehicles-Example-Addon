@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "${description}",
+    "pack_format": ${assets_pack_format}
+  }
+}
