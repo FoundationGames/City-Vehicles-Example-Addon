@@ -130,5 +130,18 @@
             }
         ],
         "length_pixels": 87
+    },
+    "horn": {
+        "loop_end": 0.3138,
+        "loop_start": 0.2019,
+        "pitches": [
+            1.05946309436,
+            1.25992104989,
+            1.49830707688,
+            1.68179283051
+        ],
+        "sound": {
+            "sound_id": "automobility:entity.automobile.brass_horn"
+        }
     }
 }
